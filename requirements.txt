@@ -1,0 +1,3 @@
+# requirements.tsx
+snowflake-snowpark-python
+streamlit
